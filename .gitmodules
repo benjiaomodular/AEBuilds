@@ -1,0 +1,3 @@
+[submodule "AEPanelMaker"]
+	path = AEPanelMaker
+	url = git@github.com:benjiaomodular/AEPanelMaker.git
