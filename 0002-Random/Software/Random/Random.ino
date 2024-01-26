@@ -23,11 +23,11 @@ byte getPatternValue() {
   byte result = B00000000;
 
   if (doFlip(randomness1)) {
-    result = B00000010;
+    result = B00000001;
   } 
     
   if (doFlip(randomness2)) {
-    result = result | B00000001;
+    result = result | B00000010;
   }
 
   return result;
