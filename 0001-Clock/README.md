@@ -3,19 +3,19 @@
 
 A simple DIY clock module for AEModular based on the ATtiny85. Code is based on [robstave's ACS-85-0020 "Adjustable Square Wave"](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0020).
 
-![AEClock front](Images/AEClock-front.jpg)
+![AEClock front](Images/Clock-front.jpg)
 
 ## Circuit
 Not much going on with the circuit on this one. Just 1k resistors on the outputs, 1k resistor on the LED, and 10k pots setup as voltage dividers. I will post the schematic of this soon.
 
-![AEClock](Images/AEClock-Schematics.png)
+![Clock](Images/Clock-Schematics.png)
 
-![AEClock front](Images/AEClock-back.jpg)
+![Clock front](Images/Clock-back.jpg)
 
 ## Panel
 The frontpanel I used for my build was 3D printed in PLA and designed using my [AEPanelMaker library for OpenSCAD](https://github.com/benjiaomodular/AEPanelMaker). I built the circuit on perfboard.
 
-![AEClock front panel](Images/AEClockPanel.png)
+![Clock front panel](Images/ClockPanel.png)
 
 
 ## LICENSE
