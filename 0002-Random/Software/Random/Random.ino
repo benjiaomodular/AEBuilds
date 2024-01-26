@@ -10,6 +10,17 @@ volatile byte randomness1 = 0;
 volatile byte randomness2 = 0;
 volatile unsigned int lfsr = 31;  // initialize to whatever, so long as its not zero
 
+
+\*
+  Pin 1 - NC
+  Pin 2 (A3) - Prob B (pot)
+  Pin 3 (A2) - Prob A (pot)
+  Pin 4 - GND
+  Pin 5 - Out A
+  Pin 6 - Out B
+  Pin 7 (A1) - Clock In
+*\
+
 boolean doFlip(byte p) {
   clockLfsr();
   byte c1 = lfsr & B11111111;
