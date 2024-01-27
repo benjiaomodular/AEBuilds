@@ -8,10 +8,12 @@ Has one clock input and two channels with independent probability controls.
 ![Random Panel in OpenSCAD](Images/Random-Panel-3d.png)
 
 ## Circuit
-[TODO]
+
+![Clock](Images/Random-Schematics.png)
 
 ## Panel
 The frontpanel I used for my build was 3D printed in PLA and designed using my [AEPanelMaker library for OpenSCAD](https://github.com/benjiaomodular/AEPanelMaker). I built the circuit on perfboard.
+
 
 ## LICENSE
 This work is licensed under a
