@@ -4,7 +4,7 @@
 #define RANDHIGH 255
 
 // Pin definitions
-#define clockInt 2
+#define clockInt 2/projects/tinyQuan/tinyQuan.ino
 
 volatile byte randomness1 = 0;
 volatile byte randomness2 = 0;

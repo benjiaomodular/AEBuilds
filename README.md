@@ -1,4 +1,4 @@
-# AEClock
+# AEBuilds
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 A collection of DIY projects I made for my AE modular synthesizer system.
