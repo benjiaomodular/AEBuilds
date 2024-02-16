@@ -1,9 +1,11 @@
-# [WIP] AdditiveVCO
+# AdditiveVCO
+An Arduino VCO based on [HAGIWO's Additive VCO project](https://note.com/solder_state/n/n30b3a8737b1e).
 
+![AdditiveVCO](AdditiveVCO.jpg)
 
 ## Circuit
 
-![Quantizer](AdditiveVCO.png)
+![AdditiveVCO](AdditiveVCO.png)
 
 
 ## LICENSE

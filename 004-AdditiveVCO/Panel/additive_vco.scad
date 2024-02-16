@@ -18,4 +18,4 @@ pots_rv09 = [
 
 leds = [];
 
-generate_panel();
+generate_panel(); 

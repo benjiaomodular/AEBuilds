@@ -10,6 +10,8 @@ A collection of DIY projects I made for my AE modular synthesizer system.
 | [001-Clock](/001-Clock/)       | A clock based on [robstave's ACS-85-0020 "Adjustable Square Wave"](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0020). Adjustable rate and duty cycle %.       | Clocks, ATtiny85   |
 |  [002-Random](/002-Random)   | Generates randomized gates based on a probability knob. Module based on [robstave's ACS-85-0613 "Coin Flip"](https://github.com/robstave/ArduinoComponentSketches/tree/master/ACS-85%20ATTiny85%20sketches/ACS-85-0613).        | Random, ATtiny85      |
 |  [003-Quantizer](/003-Quantizer)   | Fixed-scale Arduino quantizer with trigger input| Utility, Arduino Nano      |
+|  [004-AdditiveVCO](/004-AdditiveVCO)  | An Arduino VCO based on [HAGIWO's Additive VCO project](https://note.com/solder_state/n/n30b3a8737b1e). | VCO, Arduino Nano |
+
 
 ## LICENSE
 All work under this collection is licensed under a
